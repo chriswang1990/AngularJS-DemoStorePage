@@ -54,7 +54,7 @@
       images: [
         "images/gem-04.gif",
         "images/gem-05.gif",
-        "images/gem-06.gif",
+        "images/gem-06.gif"
       ],
       reviews: [{
         stars: 3,
@@ -77,6 +77,9 @@
       color: '#000',
       faces: 6,
       images: [
+        "images/gem-03.gif",
+        "images/gem-04.gif",
+        "images/gem-02.gif"
       ],
       reviews: [{
         stars: 1,
